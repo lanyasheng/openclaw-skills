@@ -1,0 +1,17 @@
+# chandra-ocr 依赖
+
+# 核心 OCR
+chandra-ocr>=0.1.0
+
+# 图片处理
+Pillow>=10.0.0
+
+# 可选：交互式应用
+streamlit>=1.28.0
+
+# 可选：生产部署
+vllm>=0.2.0
+
+# 开发依赖
+pytest>=7.4.0
+pytest-cov>=4.1.0
